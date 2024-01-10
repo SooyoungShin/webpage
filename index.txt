@@ -1,12 +1,37 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Your GitHub Page</title>
 </head>
 <body>
-  <h1>
-    Hi. This page is under construction. I will provide proper link very soon. Thank you.
-  </h1>
+
+    <!-- Menu Section -->
+    <div class="menu">
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#cv">CV</a></li>
+        </ul>
+    </div>
+
+    <!-- Body Section -->
+    <div class="body">
+        <h1>Welcome to Your GitHub Page</h1>
+        <!-- Add your main content here -->
+    </div>
+
+    <!-- Links Section -->
+    <div class="links">
+        <ul>
+            <li><a href="mailto:your@email.com">Email</a></li>
+            <li><a href="https://www.linkedin.com/in/yourusername" target="_blank">LinkedIn</a></li>
+            <li><a href="https://github.com/yourusername" target="_blank">GitHub</a></li>
+            <li><a href="https://www.instagram.com/yourusername" target="_blank">Instagram</a></li>
+        </ul>
+    </div>
+
 </body>
 </html>
