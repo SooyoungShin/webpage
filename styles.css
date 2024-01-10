@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.menu, .links {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+
+.menu ul, .links ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu li, .links li {
+    display: inline;
+    margin: 0 1em;
+}
+
+.body {
+    padding: 5% 10%;
+    text-align: center;
+}
